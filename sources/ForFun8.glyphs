@@ -4,7 +4,7 @@
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I IJ J K L M N O P Q R S T U V W X Y Z";
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z";
 name = Uppercase;
 },
 {
@@ -17220,7 +17220,7 @@ unicode = 710;
 glyphname = logo;
 kernLeft = KO_logo;
 kernRight = KO_logo;
-lastChange = "2026-02-13 01:08:02 +0000";
+lastChange = "2026-02-13 01:37:17 +0000";
 layers = (
 {
 layerId = m004;
@@ -17470,7 +17470,7 @@ width = 4808;
 glyphname = star;
 kernLeft = KO_star;
 kernRight = KO_star;
-lastChange = "2026-02-13 01:08:02 +0000";
+lastChange = "2026-02-13 01:37:17 +0000";
 layers = (
 {
 layerId = m004;
