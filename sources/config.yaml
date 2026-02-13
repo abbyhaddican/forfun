@@ -10,7 +10,7 @@ sources:
   - ForFun8.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
-familyName: "ForFun"
+familyName: "For Fun"
 
 # Next you can supply alternative paths for where you want the
 # binaries to live. But we'd recommend you stick to the defaults
@@ -25,10 +25,10 @@ familyName: "ForFun"
 # The following entries, which are either "true" or "false"
 # determine which targets to build. We turn off OTFs for this demo.
 
-# buildVariable: true
+# buildVariable: false
 # buildStatic: true
-# buildTTF: true
-buildOTF: false
+# buildTTF: false
+buildOTF: true
 # buildSmallCap: false
 
 # The next flags control autohinting.
