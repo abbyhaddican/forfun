@@ -28,7 +28,7 @@ familyName: "For Fun"
 # buildVariable: false
 # buildStatic: true
 # buildTTF: false
-buildOTF: true
+# buildOTF: true
 # buildSmallCap: false
 
 # The next flags control autohinting.
